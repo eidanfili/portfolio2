@@ -1,0 +1,25 @@
+.Page{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+
+}
+.PageGrid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    height:100vh;
+}
+.PageTitle{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width:50px;
+    color: white;
+    align-items: center;
+}
+
+.PageContain{
+    display:grid;
+    grid-template-columns: 50px 1fr;
+}

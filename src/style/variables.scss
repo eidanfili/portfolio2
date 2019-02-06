@@ -1,0 +1,45 @@
+$colorGrey: #454545;
+
+$colorPink:#B643D1;
+$darkPink: #A323C2;
+
+$colorGreen: #5C7B5E;
+$darkGreen: #405D42;
+
+$colorIndigo: #51248E;
+$darkIndigo: #3C1571;
+
+$colorRed: #AD1F1F;
+$darkRed: #8B0707;
+
+
+.Pink{
+    background-color: $colorPink;
+}
+.DarkPink{
+    background-color: $darkPink;
+}
+.Green{
+    background-color: $colorGreen;
+}
+.DarkGreen{
+    background-color: $darkGreen;
+}
+.Indigo{
+    background-color: $colorIndigo;
+}
+.DarkIndigo{
+    background-color: $darkIndigo;
+}
+.Red{
+    background-color: $colorRed;
+}
+.DarkRed{
+    background-color: $darkRed;
+}
+.White{
+    background-color:white;
+}
+.BlackT{
+    color:black !important;
+}
