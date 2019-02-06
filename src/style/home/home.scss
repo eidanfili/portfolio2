@@ -21,4 +21,20 @@
 .HomeComponent{
     display:grid;
     height: 100%;
+
+}
+
+.TitleUp{
+    animation: 1s ease-out 0s 1 slideInFromBottom;
+    
+}
+
+.TitleDown{
+    animation: 1s ease-out 0s 1 slideInFromTop;
+}
+.ContentUp{
+    animation: 1.25s ease-out 0s 1 slideInFromLeft;
+}
+.ContentDown{
+    animation: 1.25s ease-out 0s 1 slideInFromRight;
 }
