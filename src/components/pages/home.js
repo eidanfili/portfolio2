@@ -12,9 +12,9 @@ export default function Home(){
             </div>
             <div className="HomeComponents">
                 <HomeComponentDown to="/about" title="About" color="Pink" content="This page is about me and learning to code and other things about me" />
-                <HomeComponentUp to="/projects" title="Projects" color="Green" content="asdfasdfasdfasdf" />
-                <HomeComponentDown to="/portfolio" title="Portfolio" color="Indigo" content="asdfasdfasdfasdf" />
-                <HomeComponentUp to="/contact" title="Contact" color="Red" content="adsfasdfasdfasdf" />
+                <HomeComponentUp to="/projects" title="Projects" color="Green" content="See some of my expierience and projects that I have done and check them out!" />
+                <HomeComponentDown to="/portfolio" title="Portfolio" color="Indigo" content="Download my resume and learn nore about my job history and education" />
+                <HomeComponentUp to="/contact" title="Contact" color="Red" content="message me using Email, Facebook, Imessage, Instagram, Twitter, and Linkedin" />
             </div>
         </div>
     )

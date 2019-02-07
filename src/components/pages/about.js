@@ -10,6 +10,13 @@ export default function About(){
                 <h1>U</h1>
                 <h1>T</h1>
             </div>
+            <div className="AboutContainer">
+                <div className="AboutContent">
+                    <div className="img">
+                        <img src="/assets/img.jpeg" alt="alksdjfglkjhaelsk" />
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }
